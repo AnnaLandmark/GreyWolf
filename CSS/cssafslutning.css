@@ -1,0 +1,119 @@
+body{
+    font-family:alternate-gothic-no-1-d, sans-serif;
+}
+
+header{
+    background-color:#3C5352;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 120px;
+    z-index: 2;
+}
+
+
+.backsøg{
+    position:absolute;
+    width:25px;
+    top:10px;
+    left:5px;
+    
+}
+
+.logo{
+    position:absolute;
+    width:30px;
+    top: 0px;
+}
+
+.søgfelt{
+    position:absolute;
+    width:9px;
+    top:15px;
+    left:65px;
+}
+
+.burger{
+    position:absolute;
+    width:9px;
+    top:26px;
+    left:30px;
+}
+
+.fullkurv{
+    position:absolute;
+    width:9px;
+    top:20px;
+    left:355px;
+
+}
+
+.GW{
+    position:absolute;
+    font-size: 65px;
+    color:#BBBEC3;
+    text-shadow: -1px 0 #707070, 0 1px#707070, 1px 0 #707070, 0 -1px#707070; 
+    top:-10px;
+    left:160px;
+}
+
+header img{
+    padding: -10px 20px;
+}
+
+.tak{
+    position:absolute;
+    font-size: 35px;
+    color:#3C5352;
+    left:80px;
+    top:150px;
+}
+
+.billede{
+    position: absolute;
+    width: 155px;
+    bottom: 100px;
+    left:30px;
+    top:350px;
+}
+
+.billede2{
+    position: absolute;
+    width: 170px;
+    bottom: 100px;
+    left:230px;
+    top:345px;
+}
+
+.billede3{
+    position: absolute;
+    width: 170px;
+    bottom: 100px;
+    left:25px;
+    top:530px;
+}
+
+.billede4{
+    position: absolute;
+    width: 170px;
+    bottom: 100px;
+    left:230px;
+    top:530px;
+}
+
+.billede5{
+    position: absolute;
+    width: 170px;
+    bottom: 100px;
+    left:130px;
+    top:445px;
+}
+
+.forsiden{
+    position:absolute;
+    font-size: 35px;
+    color:#3C5352;
+    left:150px;
+    top:700px;
+}

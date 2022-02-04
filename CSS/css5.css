@@ -1,0 +1,188 @@
+body{
+    font-family:alternate-gothic-no-1-d, sans-serif;
+}
+
+header{
+    background-color:#3C5352;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 120px;
+    z-index: 2;
+}
+
+
+.backsøg{
+    position:absolute;
+    width:25px;
+    top:10px;
+    left:5px;
+    
+}
+
+.logo{
+    position:absolute;
+    width:30px;
+    top: 0px;
+}
+
+.søgfelt{
+    position:absolute;
+    width:9px;
+    top:15px;
+    left:65px;
+}
+
+.burger{
+    position:absolute;
+    width:9px;
+    top:26px;
+    left:30px;
+}
+
+.fullkurv{
+    position:absolute;
+    width:9px;
+    top:20px;
+    left:355px;
+
+}
+
+.GW{
+    position:absolute;
+    font-size: 65px;
+    color:#BBBEC3;
+    text-shadow: -1px 0 #707070, 0 1px#707070, 1px 0 #707070, 0 -1px#707070; 
+    top:-10px;
+    left:160px;
+}
+
+header img{
+    padding: -10px 20px;
+}
+
+.tshirt img{
+    position: absolute;
+    width: 50px;
+    bottom: 100px;
+    left:30px;
+}
+
+.billede{
+   position:absolute;
+   padding: 130px 7px;
+   text-align:left;
+   width: 180px;
+   left:10px;
+}
+
+.text{
+    background-color:#7E8989;
+    position:absolute;
+    color:#D6D9D9;
+    padding: 0px 20px 0px 50px;
+    font-size:25px;
+    text-align:center;
+    top: 175px;
+    right:120px;
+    border-radius: 25px;
+    height: 70px;
+    
+    
+    
+}
+
+.cart{
+    position:absolute;
+    height:20px;
+    left:12px;
+    top:28px;
+}
+
+.omtøj{
+    position:absolute;
+    color:#707070;
+    font-size:15px;
+    text-align:left;
+    top:275px;
+    right: 150px;
+    border:#707070;
+}
+
+.antal{
+    position:absolute;
+    font-size:10px;
+    text-align:center;
+    top:268px;
+    right:245px;
+    width: 10px;
+    height:20px;
+    left:220px;
+}
+
+.checkout{
+    position:absolute;
+    background-color:#3C5352;
+    color:#D6D9D9;
+    padding: 5px 30px 5px 50px;
+    font-size:16px;
+    text-align:center;
+    top: 520px;
+    right:150px;
+    border-radius: 30px; 
+
+}
+
+.lock{
+    position:absolute;
+    height:20px;
+    left:19px;
+    top:20px;
+}
+
+.annuler{
+    position:absolute;
+    color:#707070;
+    font-size:13px;
+    text-align:left;
+    top:575px;
+    left:200px;
+    height:50px;
+    border:#707070;
+}
+
+.shopvidere{
+    position:absolute;
+    color:#707070;
+    font-size:28px;
+    text-align:left;
+    top:630px;
+    left:170px;
+    height:50px;
+    border:#707070;
+}
+
+.kvinder{
+    background-color:#7E8989;
+    position:absolute;
+    color:#D6D9D9;
+    padding: 1px 50px 1px 50px;
+    font-size:18px;
+    text-align:center;
+    top: 690px;
+    right:140px;
+    border-radius: 30px; 
+}
+
+.mænd{
+    background-color:#7E8989;
+    position:absolute;
+    color:#D6D9D9;
+    padding: 1px 60px 1px 60px;
+    font-size:18px;
+    text-align:center;
+    top: 760px;
+    right:135px;
+    border-radius: 30px;
+}

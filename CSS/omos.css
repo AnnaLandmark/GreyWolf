@@ -1,0 +1,157 @@
+body {
+    background-image: url(../img/mur.jpg);
+}
+
+header{
+    background-color:#3C5352;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 120px;
+    z-index: 2;
+}
+
+
+.backsøg{
+    position:absolute;
+    width:25px;
+    top:10px;
+    left:5px;
+    
+}
+
+.logo{
+    position:absolute;
+    width:30px;
+    top: 0px;
+}
+
+.søgfelt{
+    position:absolute;
+    width:9px;
+    top:15px;
+    left:65px;
+}
+
+.burger{
+    position:absolute;
+    width:9px;
+    top:26px;
+    left:30px;
+}
+
+.fullkurv{
+    position:absolute;
+    width:9px;
+    top:20px;
+    left:355px;
+
+}
+
+.GW{
+    font-family: alternate-gothic-no-1-d,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    font-size: 70px;
+    color:#BBBEC3;
+    text-shadow: -1px 0 #707070, 0 1px#707070, 1px 0 #707070, 0 -1px#707070; 
+    top: 70px;
+    left:160px;
+}
+
+header img{
+    padding: -10px 20px;
+}
+
+h2 {
+    font-family: alternate-gothic-no-1-d,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    color: #707070;
+    text-align: center;
+    margin-top: 180px;
+
+}
+
+p {
+    font-family: alternate-gothic-no-1-d,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: #707070;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.indledning {
+    margin-top: -100px;
+}
+
+.titel2 {
+    font-family: alternate-gothic-no-1-d,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+    color: #707070;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.jeanette {
+    margin-top: -40px;
+}
+
+.ceo1text {
+    font-size: 20px;
+    margin-left: 212px;
+    margin-right: 0px;
+    margin-top: -1050px;
+}
+
+.ceo2text {
+    font-size: 20px;
+    margin-left: 0px;
+    margin-right: 212px;
+    margin-top: 150px;
+}
+
+.ceo3text {
+    font-size: 20px;
+    margin-left: 212px;
+    margin-right: 0px;
+    margin-top: 125px;
+}
+
+.ceo4text {
+    font-size: 20px;
+    margin-left: 0px;
+    margin-right: 212px;
+    margin-top: 125px;
+}
+
+.ceo5text {
+    font-size: 20px;
+    margin-left: 212px;
+    margin-right: 0px;
+    margin-top: 125px;
+}
+
+.henrik {
+    margin-left: 200px;
+}
+
+.lise {
+    margin-left: 10px;
+}
+
+.kiffa {
+    margin-left: 200px;
+}
+
+.rolf {
+    margin-left: 5px;
+}

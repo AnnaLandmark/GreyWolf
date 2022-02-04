@@ -1,0 +1,151 @@
+body{
+    font-family:alternate-gothic-no-1-d, sans-serif;
+}
+
+header{
+    background-color:#3C5352;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 120px;
+    z-index: 2;
+}
+
+
+.backsøg{
+    position:absolute;
+    width:25px;
+    top:10px;
+    left:5px;
+    
+}
+
+.logo{
+    position:absolute;
+    width:30px;
+    top: 0px;
+}
+
+.søgfelt{
+    position:absolute;
+    width:9px;
+    top:15px;
+    left:65px;
+}
+
+.burger{
+    position:absolute;
+    width:9px;
+    top:26px;
+    left:30px;
+}
+
+.fullkurv{
+    position:absolute;
+    width:9px;
+    top:20px;
+    left:355px;
+
+}
+
+.GW{
+    position:absolute;
+    font-size: 65px;
+    color:#BBBEC3;
+    text-shadow: -1px 0 #707070, 0 1px#707070, 1px 0 #707070, 0 -1px#707070; 
+    top:-10px;
+    left:160px;
+}
+
+header img{
+    padding: -10px 20px;
+}
+
+.mobilepay{
+    position:absolute;
+    background-color:#3C5352;
+    color:#D6D9D9;
+    padding: 0px 30px 0px 30px;
+    font-size:50px;
+    text-align:center;
+    top: 200px;
+    right:75px;
+    border-radius: 40px;
+    width: 240px;
+    height: 80px; 
+}
+
+.textmp{
+    position:absolute;
+    font-size: 40px;
+    color:#D6D9D9;
+    left:145px;
+    top:180px;
+}
+
+.applepay{
+    position:absolute;
+    background-color:#3C5352;
+    color:#D6D9D9;
+    padding: 0px 30px 0px 30px;
+    font-size:50px;
+    text-align:center;
+    top: 310px;
+    right:75px;
+    border-radius: 40px;
+    width: 240px;
+    height: 80px; 
+}
+
+.textap{
+    position:absolute;
+    font-size: 40px;
+    color:#D6D9D9;
+    left:145px;
+    top:290px;
+}
+
+.betalingskort{
+    position:absolute;
+    background-color:#3C5352;
+    color:#D6D9D9;
+    padding: 0px 30px 0px 30px;
+    font-size:50px;
+    text-align:center;
+    top: 420px;
+    right:75px;
+    border-radius: 40px;
+    width: 240px;
+    height: 80px; 
+}
+
+.textbk{
+    position:absolute;
+    font-size: 40px;
+    color:#D6D9D9;
+    left:125px;
+    top:400px;
+}
+
+.viabill{
+    position:absolute;
+    background-color:#3C5352;
+    color:#D6D9D9;
+    padding: 0px 30px 0px 30px;
+    font-size:50px;
+    text-align:center;
+    top: 530px;
+    right:75px;
+    border-radius: 40px;
+    width: 240px;
+    height: 80px; 
+}
+
+.textvb{
+    position:absolute;
+    font-size: 40px;
+    color:#D6D9D9;
+    left:160px;
+    top:510px;
+}

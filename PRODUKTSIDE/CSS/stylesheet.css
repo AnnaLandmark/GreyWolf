@@ -1,0 +1,144 @@
+/*Generelt stuff---------------------------------------*/
+
+@import url("https://use.typekit.net/nnd6zvv.css");
+@import url("https://use.typekit.net/nnd6zvv.css");
+
+body{
+    margin: 0px;
+}
+
+
+/*produkt-billede-------------------------------------*/
+article:nth-of-type(1){
+background-image: url(../IMG/Baggrund.png);
+background-size: cover;
+background-attachment: fixed;
+height: 790px;
+}
+
+.produktbillede{
+    background-image: url(../IMG/BUKSER.png);
+    height: 412px;
+    width: 376px;
+    border-radius: 23px;
+    margin-left: 25px;
+}
+
+.billede-div{
+    padding-top: 70px;
+}
+
+a{
+    float: right;
+    background-color: #7E8989;
+    padding-right: 19px;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom-left-radius: 28px;
+    border-top-left-radius: 28px;
+    margin-top: 385px;
+
+    font-family: alternate-gothic-no-1-d, sans-serif;
+    color: azure;
+    font-size: 25px;
+}
+
+
+/*produkt-tekst---------------------------------------*/
+h1{
+    font-family: alternate-gothic-no-1-d, sans-serif;
+    font-weight: 300;
+    font-size: 43px;
+    color: #707070;
+    padding-left: 80px;
+    margin: 0%;
+    padding-top: 10px;
+}
+
+h2:nth-of-type(1){
+    font-family: alternate-gothic-no-1-d, sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    color: #707070;
+    margin: 0%;
+
+    padding-left: 80px;
+    position: relative;
+    bottom: 10px;
+}
+
+
+/*størrelsesknapper-----------------------------------------*/
+div.nav2 ul li
+{
+    float: left;
+    margin-left: 10px;
+    width: 60px;
+    text-align: center;
+    list-style-type: none;
+    font-family: muli, sans-serif;
+    position: relative;
+    right: 15px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.knap{
+    border: solid 2px #91959C;
+    border-radius: 5px;
+    color: #545D63;
+    background-color: white;
+}
+.a-knap{
+    border: solid 2px #ffffff;
+    border-radius: 5px;
+    background-color: #545D63;
+    color: aliceblue;
+}
+
+/*farveknapper------------------------------------------------*/
+h2:nth-of-type(2){
+    font-family: alternate-gothic-no-1-d, sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    color: #707070;
+    text-align: center;
+    margin: 0%;
+   
+}
+
+.farve-div{
+   display: flex;
+   padding-left: 125px;
+
+}
+.grøn-knap{
+    background-color:#716C30;
+    border: solid 2px white;
+	border-radius:12px;
+	padding:18px 25px;
+    margin-left: 10px;
+	
+}
+.blå-knap{
+
+    background-color:#4A5C7B;
+    border: solid 2px white;
+	border-radius:12px;
+	padding:18px 25px;
+    margin-left: 10px;
+}
+
+/*alternativ tøj------------------------------------------------*/
+h4{
+    font-family: alternate-gothic-no-1-d, sans-serif;   
+    font-weight: 400; 
+    background-color: #7E8989;
+    color: #D6D9D9;
+    text-align: center;
+    font-size: 30px;
+    margin: 0%;
+    margin-top: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
